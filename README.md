@@ -1,0 +1,1 @@
+This repository demonstrates a common closure issue in Javascript when using setTimeout within a loop. The incorrect output is explained in the bug.js file and the solution is provided in the bugSolution.js file.
